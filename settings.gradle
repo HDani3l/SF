@@ -1,0 +1,3 @@
+include ':SF'
+include ':app'
+rootProject.name = "FunctionCollection"
